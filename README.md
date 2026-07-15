@@ -79,8 +79,7 @@ For a user–product pair with few or no similar neighbors, the KNN models retur
 
 ```
 ├── README.md
-├── notebook/
-│   └── amazon_recommendation_system.ipynb   # EDA → rank-based → user/item KNN → SVD → tuning
+├── amazon_recommendation_system.ipynb   # EDA → rank-based → user/item KNN → SVD → tuning
 └── assets/                                   # rating distribution, model comparison charts
 ```
 
